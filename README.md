@@ -18,3 +18,6 @@ individual post information: category, time of posting.
 mobile app stores.
 * Analyzed and recommended profitable app profiles based
 on individual app information: category, ratings, downloads.
+
+# [Simple Interest Calculator:](https://devgitops.github.io/vftvk-Simple-Interest-Calculator/)
+* Simple Interest Calculator with a reset button
