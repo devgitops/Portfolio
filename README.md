@@ -7,6 +7,10 @@ record store using Python and SQLite.
 individual track information: artist, location, genre, media
 type.
 
+# [Laptop Store Inventory:](https://github.com/devgitops/Colab_Notebooks/tree/main/Laptop_Inventory)
+* Created an analysis report on the inventory of a laptop store.
+* Analyzed prices for laptops at the store based on product specifications.
+
 # [Python News Posts Project:](https://github.com/devgitops/Colab_Notebooks/tree/main/Hacker_News)
 * Created an analysis report on the factors affecting posts on
 a popular technology news, discussion website.
@@ -20,4 +24,5 @@ mobile app stores.
 on individual app information: category, ratings, downloads.
 
 # [Simple Interest Calculator:](https://devgitops.github.io/vftvk-Simple-Interest-Calculator/)
-* Simple Interest Calculator with a reset button
+* Created a Simple Interest Calculator.
+
